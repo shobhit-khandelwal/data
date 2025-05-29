@@ -1,3 +1,6 @@
 .DS_Store
 aws.json
 .Rhistory
+# OMS files
+oms/credentials.json
+__pycache__/
